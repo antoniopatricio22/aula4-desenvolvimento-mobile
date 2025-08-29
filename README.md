@@ -47,7 +47,7 @@ Ele quer acompanhar diferentes tipos de investimentos, calcular o retorno total 
  
 
 ```
-app/src/main/java/com/example/myapplication
+java/com/example/myapplication
 │
 ├── veiculo
 │ ├── Veiculo.java
@@ -81,4 +81,5 @@ app/src/main/java/com/example/myapplication
 ```
 
 Recife, 29 de Agosto de 2025
+
 **Antônio Macena** [LinkedIn](https://www.linkedin.com/in/antonio-macena/)
