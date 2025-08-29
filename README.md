@@ -2,7 +2,7 @@
 
 Este repositório contém proposta de resolução sos exercícios da **Aula 4 da disciplina Desenvolvimento Mobile**, implementados em **Java no Android Studio**.  
 
-O projeto aborda **modelagem orientada a objetos** com **classes abstratas, herança e interfaces**, aplicados em diferentes cenários:
+Aborda **modelagem orientada a objetos** com **classes abstratas, herança e interfaces**, aplicados em diferentes cenários:
 
 
 ---
@@ -43,8 +43,10 @@ Ele quer acompanhar diferentes tipos de investimentos, calcular o retorno total 
 
 ---
 
-## 📂 Estrutura do Projeto
+## 📂 Estrutura dos arquivos
+ 
 
+```
 app/src/main/java/com/example/myapplication
 │
 ├── veiculo
@@ -75,6 +77,8 @@ app/src/main/java/com/example/myapplication
 ├── RendaFixa.java
 ├── Acao.java
 └── Avaliavel.java
+
+```
 
 Recife, 29 de Agosto de 2025
 **Antônio Macena** [LinkedIn](https://www.linkedin.com/in/antonio-macena/)
