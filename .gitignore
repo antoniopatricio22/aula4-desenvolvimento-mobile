@@ -7,6 +7,7 @@ local.properties
 
 # Log/OS Files
 *.log
+*.tmp
 
 # Android Studio generated files and folders
 captures/
@@ -15,6 +16,10 @@ captures/
 *.aab
 *.apk
 output-metadata.json
+.idea/
+*.iml
+*.ipr
+*.iws
 
 # IntelliJ
 *.iml
@@ -32,3 +37,6 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+# Misc
+.DS_Store
