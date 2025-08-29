@@ -13,28 +13,28 @@ Diógenes Carvalho Matias está desenvolvendo um aplicativo que gerencia diferen
 Cada veículo tem características comuns, mas também possui comportamentos específicos.  
 **Tarefa:** Crie classes abstratas para modelar essa situação.
 
----
+-
 
 ### 2) Dispositivos eletrônicos  
 Diógenes Carvalho Matias está desenvolvendo um aplicativo que gerencia diferentes tipos de dispositivos eletrônicos, como computadores e smartphones.  
 Cada dispositivo tem características comuns, mas também possui comportamentos específicos.  
 **Tarefa:** Crie classes abstratas e herança para modelar essa situação.
 
----
+-
 
 ### 3) Contatos  
 Diógenes Carvalho Matias está desenvolvendo um aplicativo que gerencia contatos de diferentes tipos, como contatos pessoais e profissionais.  
 Cada contato tem características comuns, mas também possui comportamentos específicos.  
 **Tarefa:** Crie interfaces e estruturas de dados para modelar essa situação.
 
----
+-
 
 ### 4) Finanças pessoais  
 Diógenes Carvalho Matias está desenvolvendo um aplicativo para gerenciar suas finanças pessoais.  
 Ele quer acompanhar suas despesas e receitas, calcular o saldo e identificar transações que precisam ser revisadas.  
 **Tarefa:** Crie interfaces e estruturas de dados para modelar essa situação.
 
----
+-
 
 ### 5) Investimentos pessoais  
 Diógenes Carvalho Matias está desenvolvendo um aplicativo para gerenciar seus investimentos pessoais.  
@@ -77,4 +77,4 @@ app/src/main/java/com/example/myapplication
 └── Avaliavel.java
 
 Recife, 29 de Agosto de 2025
-**Antônio Macena** [LinkedIn] (https://www.linkedin.com/in/antonio-macena/)
+**Antônio Macena** [LinkedIn](https://www.linkedin.com/in/antonio-macena/)
